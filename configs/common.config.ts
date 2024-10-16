@@ -1,0 +1,2 @@
+export const POKEMON_BASE_URL = process.env.NEXT_ENV_POKEMON_BASE_URL;
+export const BASE_POKEMON_IMAGE_URL = 'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork'
